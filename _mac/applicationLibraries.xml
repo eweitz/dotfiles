@@ -1382,14 +1382,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/selenium-webdriver-3.4.3/lib" />
       </SOURCES>
     </library>
-    <library name="selenium-webdriver (v3.5.2, RVM: ruby-2.3.4) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/selenium-webdriver-3.5.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/selenium-webdriver-3.5.2/lib" />
-      </SOURCES>
-    </library>
     <library name="signet (v0.7.3, RVM: ruby-2.3.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/signet-0.7.3/lib" />
