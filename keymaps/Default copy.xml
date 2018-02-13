@@ -2,21 +2,37 @@
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta divide" />
   </action>
+  <action id="Console.Execute" />
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
   <action id="Diff.FocusOppositePane" />
   <action id="Diff.FocusOppositePaneAndScroll" />
+  <action id="EditorChooseLookupItem" />
+  <action id="EditorEnter" />
   <action id="Images.Editor.ActualSize">
     <keyboard-shortcut first-keystroke="meta divide" />
   </action>
   <action id="Images.Editor.ToggleGrid" />
+  <action id="Images.Thumbnails.EnterAction" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
     <keyboard-shortcut first-keystroke="ctrl right" />
     <keyboard-shortcut first-keystroke="ctrl tab" />
   </action>
+  <action id="NextTemplateVariable">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
     <keyboard-shortcut first-keystroke="ctrl left" />
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
+  </action>
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="meta alt r" />
+    <keyboard-shortcut first-keystroke="f9" />
+    <keyboard-shortcut first-keystroke="meta slash" />
   </action>
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="f7" />
@@ -24,11 +40,11 @@
   </action>
   <action id="StepOut">
     <keyboard-shortcut first-keystroke="shift f8" />
-    <keyboard-shortcut first-keystroke="meta quote" />
+    <keyboard-shortcut first-keystroke="shift meta semicolon" />
   </action>
   <action id="StepOver">
     <keyboard-shortcut first-keystroke="f8" />
-    <keyboard-shortcut first-keystroke="meta slash" />
+    <keyboard-shortcut first-keystroke="meta quote" />
   </action>
   <action id="Switcher" />
 </keymap>
