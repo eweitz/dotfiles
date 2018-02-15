@@ -31,7 +31,7 @@
   <action id="Resume">
     <keyboard-shortcut first-keystroke="meta alt r" />
     <keyboard-shortcut first-keystroke="f9" />
-    <keyboard-shortcut first-keystroke="meta slash" />
+    <keyboard-shortcut first-keystroke="meta back_slash" />
   </action>
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="f7" />
