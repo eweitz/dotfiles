@@ -1,6 +1,11 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
-  <action id="CommentByLineComment">
-    <keyboard-shortcut first-keystroke="meta divide" />
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="meta alt slash" />
+    <keyboard-shortcut first-keystroke="meta alt divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
   </action>
   <action id="Console.Execute" />
   <action id="Console.TableResult.EditValue">
@@ -31,7 +36,7 @@
   <action id="Resume">
     <keyboard-shortcut first-keystroke="meta alt r" />
     <keyboard-shortcut first-keystroke="f9" />
-    <keyboard-shortcut first-keystroke="meta back_slash" />
+    <keyboard-shortcut first-keystroke="shift meta slash" />
   </action>
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="f7" />
