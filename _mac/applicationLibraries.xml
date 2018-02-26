@@ -118,6 +118,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/bcrypt-3.1.11/lib" />
       </SOURCES>
     </library>
+    <library name="bigdecimal (v1.2.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///usr/lib/ruby/2.0.0/bigdecimal" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/lib/ruby/2.0.0/bigdecimal" />
+      </SOURCES>
+    </library>
     <library name="bigdecimal (v1.2.8, RVM: ruby-2.3.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/bigdecimal" />
@@ -886,6 +894,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/jquery-ui-rails-0b22d46622c6/jquery-ui" />
       </SOURCES>
     </library>
+    <library name="json (v1.7.7, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///usr/lib/ruby/2.0.0/json/add" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/lib/ruby/2.0.0/json/add" />
+      </SOURCES>
+    </library>
     <library name="json (v1.8.3, RVM: ruby-2.3.4) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/1.8.3" />
@@ -1028,6 +1044,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/mini_portile2-2.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="minitest (v4.3.2, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///usr/lib/ruby/2.0.0/minitest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/lib/ruby/2.0.0/minitest" />
       </SOURCES>
     </library>
     <library name="minitest (v5.8.3, Remote:ruby-2.3.1-p112) [gem]">
@@ -1358,6 +1382,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/power_assert-0.2.7/lib" />
       </SOURCES>
     </library>
+    <library name="psych (v2.0.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///usr/lib/ruby/2.0.0/psych/handlers" />
+        <root url="file:///usr/lib/ruby/2.0.0/psych/nodes" />
+        <root url="file:///usr/lib/ruby/2.0.0/psych/visitors" />
+        <root url="file:///usr/lib/ruby/2.0.0/psych/json" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/lib/ruby/2.0.0/psych/handlers" />
+        <root url="file:///usr/lib/ruby/2.0.0/psych/nodes" />
+        <root url="file:///usr/lib/ruby/2.0.0/psych/visitors" />
+        <root url="file:///usr/lib/ruby/2.0.0/psych/json" />
+      </SOURCES>
+    </library>
     <library name="psych (v2.1.0, RVM: ruby-2.3.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/psych/nodes" />
@@ -1502,6 +1540,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/railties-4.2.6/lib" />
       </SOURCES>
     </library>
+    <library name="rake (v0.9.6, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///usr/lib/ruby/2.0.0/rake/ext" />
+        <root url="file:///usr/lib/ruby/2.0.0/rake/lib" />
+        <root url="file:///usr/lib/ruby/2.0.0/rake/contrib" />
+        <root url="file:///usr/lib/ruby/2.0.0/rake/loaders" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/lib/ruby/2.0.0/rake/ext" />
+        <root url="file:///usr/lib/ruby/2.0.0/rake/lib" />
+        <root url="file:///usr/lib/ruby/2.0.0/rake/contrib" />
+        <root url="file:///usr/lib/ruby/2.0.0/rake/loaders" />
+      </SOURCES>
+    </library>
     <library name="rake (v10.4.2, Remote:ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-71999431/1096332692/gems/rake-10.4.2/bin" />
@@ -1560,6 +1612,28 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-71999431/1096332692/gems/rake-11.2.2/bin" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-71999431/1096332692/gems/rake-11.2.2/exe" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-71999431/1096332692/gems/rake-11.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rdoc (v4.0.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///usr/lib/ruby/2.0.0/rdoc/rd" />
+        <root url="file:///usr/lib/ruby/2.0.0/rdoc/markdown" />
+        <root url="file:///usr/lib/ruby/2.0.0/rdoc/parser" />
+        <root url="file:///usr/lib/ruby/2.0.0/rdoc/stats" />
+        <root url="file:///usr/lib/ruby/2.0.0/rdoc/generator" />
+        <root url="file:///usr/lib/ruby/2.0.0/rdoc/markup" />
+        <root url="file:///usr/lib/ruby/2.0.0/rdoc/context" />
+        <root url="file:///usr/lib/ruby/2.0.0/rdoc/ri" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/lib/ruby/2.0.0/rdoc/rd" />
+        <root url="file:///usr/lib/ruby/2.0.0/rdoc/markdown" />
+        <root url="file:///usr/lib/ruby/2.0.0/rdoc/parser" />
+        <root url="file:///usr/lib/ruby/2.0.0/rdoc/stats" />
+        <root url="file:///usr/lib/ruby/2.0.0/rdoc/generator" />
+        <root url="file:///usr/lib/ruby/2.0.0/rdoc/markup" />
+        <root url="file:///usr/lib/ruby/2.0.0/rdoc/context" />
+        <root url="file:///usr/lib/ruby/2.0.0/rdoc/ri" />
       </SOURCES>
     </library>
     <library name="rdoc (v4.2.1, RVM: ruby-2.3.4) [gem]">
