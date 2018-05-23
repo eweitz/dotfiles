@@ -19,6 +19,7 @@
     <mask>!*ui_test_suite*, !*develop</mask>
     <mask>!*ui_test_suite*, !*develop.log</mask>
     <mask>!*ui_test_suite*, !*development.log</mask>
+    <mask>!*ui_test_suite*, !*development*.log, !*.html</mask>
     <mask>!*ui_test_suite*, !*development*.log</mask>
   </component>
 </application>
