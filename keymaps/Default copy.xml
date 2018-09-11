@@ -25,6 +25,15 @@
   <action id="Diff.FocusOppositePane" />
   <action id="Diff.FocusOppositePaneAndScroll" />
   <action id="EditorChooseLookupItem" />
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="meta minus" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="meta equals" />
+  </action>
+  <action id="EditorResetFontSize">
+    <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
   <action id="ExpandAll">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
@@ -34,16 +43,6 @@
   </action>
   <action id="ExpandRegion">
     <keyboard-shortcut first-keystroke="meta add" />
-  </action>
-  <action id="Graph.ZoomIn">
-    <keyboard-shortcut first-keystroke="add" />
-    <keyboard-shortcut first-keystroke="equals" />
-    <keyboard-shortcut first-keystroke="meta equals" />
-  </action>
-  <action id="Graph.ZoomOut">
-    <keyboard-shortcut first-keystroke="subtract" />
-    <keyboard-shortcut first-keystroke="minus" />
-    <keyboard-shortcut first-keystroke="meta minus" />
   </action>
   <action id="Images.Editor.ActualSize">
     <keyboard-shortcut first-keystroke="meta divide" />
